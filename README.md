@@ -44,13 +44,24 @@ La aplicación permite que **administradores** y **clientes** interactúen con r
 ## 📂 Estructura de directorios
 - `src/main/java/Logica/` → Clases principales del modelo (Clientes, Pedidos, Restaurantes…).  
 - `src/main/java/Interfaz/` → Ventanas y formularios de Swing.  
-- `src/main/java/Imagenes/` → Recursos gráficos para la interfaz.  
+- `src/main/java/Imagenes/` → Recursos gráficos para la interfaz.
 
 ---
 
 ## ▶️ Ejecución
 Compilar y ejecutar desde NetBeans o con terminal:  
 
-```bash
+``bash
 javac src/main/java/**/*.java
-java Logica.Sistema
+java Logica.Sistema 
+
+---
+
+## 👩‍💻 Autores  
+- **Lucía Cantero Anchuelo**  
+- **Jesús Frutos Saucedo**
+
+
+
+
+
